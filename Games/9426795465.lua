@@ -5,5 +5,5 @@ if game.PlaceId ~= 9426795465 then return end
 local teleportFunc = queueonteleport or queue_on_teleport or syn and syn.queue_on_teleport
 
 if teleportFunc then
-    teleportFunc([[loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitzoon/Rogue-Hub/main/Main.lua", true))()]])
+    teleportFunc([[https://github.com/948347893875338/Rogue-Hub-Reborn/blob/main/Games/6403373529.lua))()]])
 end
