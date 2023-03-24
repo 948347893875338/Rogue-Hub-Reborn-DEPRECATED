@@ -56,7 +56,7 @@ end
 local teleportFunc = queueonteleport or queue_on_teleport or syn and syn.queue_on_teleport
 
 if teleportFunc then
-    teleportFunc([[loadstring(game:HttpGet("https://raw.githubusercontent.com/Kitzoon/Rogue-Hub/main/Main.lua", true))()]])
+    teleportFunc([[https://github.com/948347893875338/Rogue-Hub-Reborn/main/Games/6403373529.lua", true))()]])
 end
 
 -- walkspeed anticheat bypass
